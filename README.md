@@ -15,4 +15,4 @@ Transmission over the light will not interfere with the radar waves if exist and
 ![image](https://github.com/Mazen030/Li-fi-project/assets/93229175/1f13b4dd-3d73-4d81-b5ec-3c84b9d80f58)<br>
 4.Bluetooth to a mobile phone with the same sentence as the LCD.<br>
 **Special credits to**:Hassan El-tobgy,Omar Sobhy,Farida Elhusseiny,Mariam Diaa<br>
-**Here is a link for video**:https://drive.google.com/file/d/1PBgp7Zxa-oBLuEmhq-GwjaobVFdIDn9T/view?usp=drive_link 
+**Here is a link describing the project**:https://drive.google.com/file/d/1PBgp7Zxa-oBLuEmhq-GwjaobVFdIDn9T/view?usp=drive_link 
